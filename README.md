@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 ## Installation
 
 1. Install Node.js *(in case you haven't installed it)*.
